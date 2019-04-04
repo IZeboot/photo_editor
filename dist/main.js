@@ -7397,13 +7397,13 @@
     var r = n(60);
     n.n(r).a
 }, function(t, e, n) {
-    (t.exports = n(28)(!1)).push([t.i, "\n.app[data-v-5ef48958]{bottom:0;left:0;position:absolute;right:0;top:0\n}\n.header[data-v-5ef48958]{background-color:#666;height:3rem;overflow:hidden;padding-left:1rem;padding-right:1rem;position:relative;z-index:1\n}\n@media (min-width:768px){\n.header[data-v-5ef48958]{padding-left:1.5rem;padding-right:1.5rem\n}\n}\n.title[data-v-5ef48958]{color:#fff;display:block;float:left;font-size:1.125rem;line-height:3rem\n}\n.main[data-v-5ef48958]{background-color:#333;bottom:0;left:0;position:absolute;right:0;top:3rem\n}", ""])
+    (t.exports = n(28)(!1)).push([t.i, "\n.app[data-v-5ef48958]{bottom:0;left:0;position:absolute;right:0;top:0;background-color:#333\n}\n.header[data-v-5ef48958]{background-color:#666;height:4rem;overflow:hidden;padding-left:1rem;padding-right:1rem;position:relative;z-index:1\n}\n@media (min-width:768px){\n.header[data-v-5ef48958]{padding-left:1.5rem;padding-right:1.5rem\n}\n}\n.title[data-v-5ef48958]{color:#fff;display:block;float:left;font-size:1.125rem;line-height:4rem\n}\n.main[data-v-5ef48958]{background-color:#333;bottom:0;left:0;position:absolute;right:0;top:4rem;\n}", ""])
 }, function(t, e, n) {
     "use strict";
     var r = n(61);
     n.n(r).a
 }, function(t, e, n) {
-    (t.exports = n(28)(!1)).push([t.i, "\n.canvas[data-v-18686cfd],.editor[data-v-18686cfd]{height:100%\n}\n.canvas[data-v-18686cfd]{-ms-flex-align:center;-ms-flex-pack:center;-webkit-box-align:center;-webkit-box-pack:center;align-items:center;display:-webkit-box;display:-ms-flexbox;display:flex;justify-content:center\n}\n.canvas>img[data-v-18686cfd]{max-height:100%;max-width:100%\n}\n.toolbar[data-v-18686cfd]{background-color:rgba(0,0,0,.5);bottom:1rem;color:#fff;height:2rem;left:50%;margin-left:-8rem;position:absolute;width:16rem;z-index:2015\n}\n.toolbar__button[data-v-18686cfd]{background-color:transparent;border-width:0;color:#fff;cursor:pointer;display:block;float:left;font-size:.875rem;height:2rem;text-align:center;width:2rem\n}\n.toolbar__button[data-v-18686cfd]:focus{outline:none\n}\n.toolbar__button[data-v-18686cfd]:hover{background-color:#0074d9;color:#fff\n}", ""])
+    (t.exports = n(28)(!1)).push([t.i, "\n.canvas[data-v-18686cfd],.editor[data-v-18686cfd]{height:100%\n}\n.canvas[data-v-18686cfd]{-ms-flex-align:center;-ms-flex-pack:center;-webkit-box-align:center;-webkit-box-pack:center;align-items:center;display:-webkit-box;display:-ms-flexbox;display:flex;justify-content:center\n}\n.canvas>img[data-v-18686cfd]{max-height:100%;max-width:100%\n}\n.toolbar[data-v-18686cfd]{background-color:rgba(0,0,0,.5);bottom:0rem;color:#fff;height:4rem;position:absolute;width:100%;z-index:2015\n}\n.toolbar__button[data-v-18686cfd]{background-color:transparent;border-width:0;color:#fff;cursor:pointer;display:block;float:left;font-size:2rem;height:4rem;text-align:center;width:12.5%\n}\n.toolbar__button[data-v-18686cfd]:focus{outline:none\n}\n.toolbar__button[data-v-18686cfd]:hover{background-color:#0074d9;color:#fff\n}", ""])
 }, function(t, e, n) {
     "use strict";
     var r = n(62);
@@ -7415,7 +7415,7 @@
     var r = n(63);
     n.n(r).a
 }, function(t, e, n) {
-    (t.exports = n(28)(!1)).push([t.i, "\n.navbar[data-v-688b5e20]{float:right\n}\n.nav__button[data-v-688b5e20]{background-color:transparent;border-width:0;color:#fff;cursor:pointer;display:block;float:left;height:3rem;line-height:3rem;text-align:center;width:3rem\n}\n.nav__button[data-v-688b5e20]:focus{outline:none\n}\n.nav__button[data-v-688b5e20]:hover{background-color:#0074d9;color:#fff\n}\n.nav--success[data-v-688b5e20]:hover{background-color:#2ecc40\n}\n.nav--danger[data-v-688b5e20]:hover{background-color:#ff4136\n}", ""])
+    (t.exports = n(28)(!1)).push([t.i, "\n.navbar[data-v-688b5e20]{float:right\n}\n.nav__button[data-v-688b5e20]{background-color:transparent;border-width:0;color:#fff;cursor:pointer;display:block;float:left;height:4rem;line-height:4rem;text-align:center;width:4rem\n}\n.nav__button[data-v-688b5e20]:focus{outline:none\n}\n.nav__button[data-v-688b5e20]:hover{background-color:#0074d9;color:#fff\n}\n.nav--success[data-v-688b5e20]:hover{background-color:#2ecc40\n}\n.nav--danger[data-v-688b5e20]:hover{background-color:#ff4136\n}", ""])
 }, function(t, e, n) {
     var r = n(300);
     "string" == typeof r && (r = [
@@ -7423,7 +7423,7 @@
     ]), r.locals && (t.exports = r.locals);
     (0, n(37).default)("150e7cc4", r, !1, {})
 }, function(t, e, n) {
-    (t.exports = n(28)(!1)).push([t.i, "*,:after,:before{-webkit-box-sizing:border-box;box-sizing:border-box}body{background-color:#fff;color:#212529;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;font-size:1rem;font-weight:400;line-height:1.5;margin:0}.sr-only{border:0;clip:rect(0,0,0,0);height:1px;overflow:hidden;padding:0;position:absolute;white-space:nowrap;width:1px}", ""])
+    (t.exports = n(28)(!1)).push([t.i, "*,:after,:before{-webkit-box-sizing:border-box;box-sizing:border-box}body{background-color:#fff;color:#212529;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;font-size:2rem;font-weight:400;line-height:1.5;margin:0}.sr-only{border:0;clip:rect(0,0,0,0);height:1px;overflow:hidden;padding:0;position:absolute;white-space:nowrap;width:1px}", ""])
 }, function(t, e, n) {
     "use strict";
     n.r(e);
@@ -7437,9 +7437,7 @@
                 staticClass: "app"
             }, [n("header", {
                 staticClass: "header"
-            }, [n("span", {
-                staticClass: "title"
-            }, [t._v("Photo Editor")]), t._v(" "), n("navbar", {
+            }, [t._v(" "), n("navbar", {
                 attrs: {
                     data: t.data
                 },
@@ -7490,6 +7488,9 @@
                         break;
                     case "remove":
                         e.reset()
+                        break;
+                    case "close":
+                        e.close()
                 }
             }
         }
@@ -7568,7 +7569,7 @@
         y = /^data:image\/jpeg;base64,/,
         b = /^(?:img|canvas)$/i,
         w = {
-            viewMode: 0,
+            viewMode: 1,
             dragMode: "crop",
             initialAspectRatio: NaN,
             aspectRatio: 1,
@@ -9051,11 +9052,12 @@
                     Object.assign(this.data, t)
 
                     if(t.url){
-                        console.log(1111111111111111111, t.url);
-                        var image = window.localStorage.setItem("image_crop", t.url);
-                        console.log('99999999999999999999', image)
-                        // var evt = new CustomEvent("CROP_IMAGE", { detail: t.url });
-                        // window.dispatchEvent(evt);
+                        let data = {
+                            image:t.url,
+                            isClose:true
+                        } 
+                        data = JSON.stringify(data);
+                        var image = window.localStorage.setItem("image_crop", data);
                     }
                 }
             },
@@ -9227,9 +9229,9 @@
         St = (n(295), a(Ct, _t, [function() {
             var t = this.$createElement,
                 e = this._self._c || t;
-            return e("p", [this._v("Drop image here or\n    "), e("label", {
+            return e("p", [e("label", {
                 staticClass: "browse"
-            }, [this._v("browse...\n      "), e("input", {
+            }, [this._v("Choose an image\n      "), e("input", {
                 staticClass: "sr-only",
                 attrs: {
                     id: "file",
@@ -9251,7 +9253,14 @@
                 on: {
                     click: t.click
                 }
-            }, [t.data.loaded ? t._e() : n("label", {
+            }, [ t._e(), n("button", {
+                staticClass: "nav__button",
+                on: {
+                    click: t.close
+                }
+            }, [n("span", {
+                staticClass: "fa fa-close"
+            })]),t.data.loaded ? t._e() : n("label", {
                 staticClass: "nav__button",
                 attrs: {
                     for: "file",
@@ -9318,7 +9327,15 @@
                     var e = t.target,
                         n = e.getAttribute("data-action") || e.parentElement.getAttribute("data-action");
                     n && this.$emit("change", n)
+                },
+                close: function() {
+                    let data = {
+                        isClose:false
+                    } 
+                    data = JSON.stringify(data);
+                    var image = window.localStorage.setItem("image_crop", data);
                 }
+
             }
         },
         Et = (n(297), a(Ot, kt, [function() {
